@@ -1,4 +1,5 @@
-public class Even_Digits {
+public class Even_Digits 
+{
     public static void main(String args[])
     {
       int[] arr = {23,7689,4,6,12}; 
